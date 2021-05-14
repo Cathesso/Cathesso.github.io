@@ -30,7 +30,15 @@ a{
     z-index: 2;
 }
 
-.projects{
+.one{
+
+}
+
+.two{
+    text-align: center;
+}
+
+.three{
     text-align: right;
 }
 
