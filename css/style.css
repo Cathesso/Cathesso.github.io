@@ -102,7 +102,7 @@ a{
 }
 .companion{
     position: absolute;
-    bottom:21%;
+    bottom:170px;
     right:10%;
     grid-row-start: 3;
     grid-column-start: 3;
